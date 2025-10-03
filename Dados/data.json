@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "nome":"Max Verstappen",
+        "descricao":"Piloto",
+        "salario":6500000.00,
+        "setor":"1",
+        "imagem":"../max.jpg"
+    },
+    {
+        "id":2,
+        "nome":"Yuki Tsunoda",
+        "descricao":"Piloto",
+        "salario":200000.00,
+        "setor":"1",
+        "imagem":"../yuki.png"
+    },
+    {
+        "id":3,
+        "nome":"Laurent Mekies",
+        "descricao":"Lider de equipe",
+        "salario":1000000.00,
+        "setor":"2",
+        "imagem":"../laurent.jpg"
+    },
+    {
+        "id":4,
+        "nome":"Hannah Schmitz",
+        "descricao":"Engenhaira-chefe de estrategia",
+        "salario":800000.00,
+        "setor":"3",
+        "imagem":"../hannah.avif"
+    },
+    {
+        "id":5,
+        "nome":"Pierre Waché",
+        "descricao":"Diretor técnico",
+        "salario":800000.00,
+        "setor":"4",
+        "imagem":"../pierre.jpg"
+    },
+    {
+        "id":6,
+        "nome":"Gianpiero Lambiase",
+        "descricao":"Chefe de corrida",
+        "salario":800000.00,
+        "setor":"5",
+        "imagem":"../dianpiero.jpg"
+    },
+    {
+        "id":7,
+        "nome":"Richard Wood",
+        "descricao":"Engenheiro de controles",
+        "salario":800000.00,
+        "setor":"6",
+        "imagem":"../richard.jpg"
+    },
+    {
+        "id":8,
+        "nome":"Gianpiero Lambiase",
+        "descricao":"Chefe de corrida",
+        "salario":800000.00,
+        "setor":"7",
+        "imagem":"../dianpiero.jpg"
+    },
+    {
+        "id":9,
+        "nome":"Adrian Newey",
+        "descricao":"Engenheiro projetista",
+        "salario":800000.00,
+        "setor":"8",
+        "imagem":"../adrian.jpg"
+    },
+    {
+        "id":10,
+        "nome":"Calum Nicholas",
+        "descricao":"Mecanico",
+        "salario":800000.00,
+        "setor":"9",
+        "imagem":"../calum.webbp"
+    },
+    {
+        "id":11,
+        "nome":"Chris Gent",
+        "descricao":"Mecanico",
+        "salario":800000.00,
+        "setor":"5",
+        "imagem":"../chris.webp"
+    },
+    {
+        "id":12,
+        "nome":"Liam Lawson",
+        "descricao":"Piloto de desenvolvimento e reserva",
+        "salario":800000.00,
+        "setor":"5",
+        "imagem":"../liam.png"
+    },
+    {
+        "id":13,
+        "nome":"Paul Monaghan",
+        "descricao":"Engenheiro-Chefe de Engenharia do Carro",
+        "salario":800000.00,
+        "setor":"5",
+        "imagem":"../paul.jpg"
+    },
+    {
+        "id":14,
+        "nome":"Ben Waterhouse",
+        "descricao":"Chefe de Engenharia de Performance",
+        "salario":800000.00,
+        "setor":"5",
+        "imagem":"../ben.jpg"
+    },
+    {
+        "id":15,
+        "nome":"Stephen Knowles",
+        "descricao":"Chefe de Regulamentos Esportivos",
+        "salario":800000.00,
+        "setor":"5",
+        "imagem":"../stephen.jpg"
+    }
+]
